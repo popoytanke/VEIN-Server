@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "[FIL][PvE] Great Tomb of Nazarick Dedicated Server",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "[fil][pve],great,tomb,of,nazarick,dedicated,server",
+        "FieldName": "",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "[FIL][PvE] Great Tomb of Nazarick Dedicated Server",
+        "Placeholder": "[FIL][PvE] Great Tomb of Nazarick Dedicated Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
